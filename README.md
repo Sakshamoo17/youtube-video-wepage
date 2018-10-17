@@ -3,6 +3,7 @@ The easiest way to play videos in HTML, is to use YouTube.  Struggling with Vide
 
 
 #Developers
-Saksham Sharma 
-Avni Bhardwaj 
-Pankaj patidar
+Saksham Sharma <br>
+Avni Bhardwaj <br>
+Pankaj patidar <br>
+............................................
